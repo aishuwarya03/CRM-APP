@@ -43,14 +43,6 @@ A full-stack CRM app built with **React**, **Node.js**, and **MongoDB** that sup
 
 ---
 
-## 🚀 Live Demo
-
-🔗 Frontend: [https://your-vercel-app.vercel.app](https://your-vercel-app.vercel.app)  
-🔗 Backend: [https://your-backend.onrender.com](https://your-backend.onrender.com)  
-🎥 Demo Video: [Loom / YouTube Link Here]
-
----
-
 ## 🛠️ Local Setup Instructions
 
 ### Prerequisites
